@@ -12,3 +12,7 @@ Installation:
 Installation:
 1. Drag the gg-Replaceskin folder into the resource folder of your FX Server folder.
 2. Edit your server.cfg and add "start gg-Replaceskin" to the resource list.
+
+
+Join my discord:
+https://discord.gg/Y29AZNQ
